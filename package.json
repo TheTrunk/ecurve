@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "bigi": "git://github.com/TheTrunk/bigi.git#master",
-    "safe-buffer": "^5.0.1"
+    "safe-buffer": "^5.0.1",
+    "assert":"^1.4.1"
   }
 }
